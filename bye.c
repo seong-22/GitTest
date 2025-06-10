@@ -1,9 +1,4 @@
 #include <stdio.h>
-#include "bye.h"
-#include "myinfo.h"
+#include "myheader.h"
 
-void printBye(void){
-
-    printf("Bye %s\n", MY_NAME);
-
-}
+void printHello(void) {printf("Hello World!\n);}
